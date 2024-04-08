@@ -1,4 +1,5 @@
  this file create under the free trail 
+sudo echo "Run upgrade and install nginx package"
  that's why to write the dummy data 
  more over this data not use for that
  sudo apt update && sudo apt upgrade -y 
