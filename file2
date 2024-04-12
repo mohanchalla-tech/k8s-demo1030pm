@@ -3,3 +3,5 @@ sudo echo "Run upgrade and install nginx package"
  that's why to write the dummy data 
  more over this data not use for that
  sudo apt update && sudo apt upgrade -y 
+ this section create under the process to 
+ simple tsting by the devlopment
